@@ -3,7 +3,7 @@
 ### **_Contact Details_**
 
 
-![]
+I am Yuan Mai.
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
 
