@@ -32,7 +32,7 @@ I am Yuan Mai.
       ⭕PHP(7 years of experience): Laravel, CodeIgniter, Magento, WordPress, Webflow
       ⭕MySQL, MongoDB, SQLite, PostgreSQL
       ⭕React Native, Android development, Java, Flutter, Firebase
-      ⭕Solidity, Blockchain, Smart Contract, DApps, NFT, etc
+
 
       Through working together, you will find I am responsive, flexible, punctual, communicative, transparent, and I work hard for my clients.
       Your Satisfaction as a client will be my number one priority.
