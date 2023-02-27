@@ -1,60 +1,8 @@
-# Hi there! 
+## Experienced Front-end Developer
+<p>Experienced Front-end Developer with 7+ years of hands-on experience in developing scalable and maintainable websites and applications using a wide range of front-end and back-end skills like React, Django, Node.js/Express, TypeScript, Laravel and Vue.js</p>
+<p>Having experience with both front-end and back-end as Full-Stack Developer, I always focus on providing efficient solutions based on the keen attention to what needs to be done, implementing best practices and guidelines.</p>
+<p>I enjoy learning new tools and technology that gets the job done well for my clients and I always focus on providing quality, satisfaction and cost-effective result within strict deadline.</p>
+<p>Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as the featured full stack developer.</p>
 
-### **_Contact Details_**
-
-
-I am Yuan Mai.
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
-
-- 🏦 I am a Full Stack Developer with 5+years experiences.
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  100% Guaranteed Project Success!
-  Thank you for considering me for your next project.
-  Only make the great success.
-  I have been working as a full-stack developer for 6+ years.
-  I have been working vast type of challenging tech projects and have been fixing 18 websits error free and maintaining client websites.
-  Whether you need, I'm at your disposal.
-  My best practices include considering all options available towards getting your idea live.
-  Well known as perfect result, fast communication.
-  WHY HIRE ME:
-  ✓ 6+ Years of Experience
-  ✓ Professional and Polite
-  ✓ Quality Work within Budget
-  ✓ Long term partnership and support
-  ✓ Clean, Documented Code
-
-      I provide the best support using following skill set:
-
-      ⭕HTML5, CSS, Tailwind.CSS, Bootstrap, JavaScript, jQuery
-      ⭕React.js/Next.js, React-Redux, TypeScript, Vue.js/Nuxt.js, Node.js/Express.js(6 years of experience), Ejs, Angular
-      ⭕Python, Django, Flask
-      ⭕PHP(7 years of experience): Laravel, CodeIgniter, Magento, WordPress, Webflow
-      ⭕MySQL, MongoDB, SQLite, PostgreSQL
-      ⭕React Native, Android development, Java, Flutter, Firebase
-
-
-      Through working together, you will find I am responsive, flexible, punctual, communicative, transparent, and I work hard for my clients.
-      Your Satisfaction as a client will be my number one priority.
-      Look forward to hearing on the Chat.
-      Best Regards!
-
-- 💻 I use daily **.js**, **.ts**, **.py**, **.sol**, **.tsx**, **.sql**, **.php**
-- 💬 Talk to me about Web Project, cricket, blockchain (both of these are not any kind of insect or animals), top developer & startups
-- 👯 We can connect to play some games of Chess ♟
-
-## Skills
-
-<table>
-  <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-  </tr>  
-</table>
+### Glade to see you here
+<img src="https://komarev.com/ghpvc/?username=katochojiro&label=Profile%20views&color=0e75b6&style=flat" alt="katochojiro" />
