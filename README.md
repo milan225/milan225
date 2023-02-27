@@ -1,8 +1,15 @@
 ## Experienced Front-end Developer
-<p>Experienced Front-end Developer with 7+ years of hands-on experience in developing scalable and maintainable websites and applications using a wide range of front-end and back-end skills like React, Django, Node.js/Express, TypeScript, Laravel and Vue.js</p>
-<p>Having experience with both front-end and back-end as Full-Stack Developer, I always focus on providing efficient solutions based on the keen attention to what needs to be done, implementing best practices and guidelines.</p>
-<p>I enjoy learning new tools and technology that gets the job done well for my clients and I always focus on providing quality, satisfaction and cost-effective result within strict deadline.</p>
-<p>Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as the featured full stack developer.</p>
+<p>Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
+I am always trying harder to find new and more effective ways to solve problems.</p>
+
+<p>Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
+I like to work with businesses with a clear vision for excellent software products. You will not get any price estimation until we have talked extensively about what you want to achieve. </p>
+
+<p>If you have an idea and don't know how to realize it, I will help you to kick-start it. 
+Asking the right key questions is the most part at the beginning of every project. Only good project management delivers your business reliable software in a plannable time frame.</p>
+
+<p>Let's create something great together!</p>
+<p>Feel free contact me.</p>
 
 ### Glade to see you here
-<img src="https://komarev.com/ghpvc/?username=katochojiro&label=Profile%20views&color=0e75b6&style=flat" alt="katochojiro" />
+<img src="https://komarev.com/ghpvc/?username=CYuanMai&label=Profile%20views&color=0e75b6&style=flat" alt="CYuanMai" />
