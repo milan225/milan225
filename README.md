@@ -12,4 +12,4 @@ Asking the right key questions is the most part at the beginning of every projec
 <p>Feel free contact me.</p>
 
 ### Glade to see you here
-<img src="https://komarev.com/ghpvc/?username=CYuanMai&label=Profile%20views&color=0e75b6&style=flat" alt="CYuanMai" />
+
