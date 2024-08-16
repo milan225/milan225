@@ -1,15 +1,10 @@
-## Experienced Front-end Developer
-<p>Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
-I am always trying harder to find new and more effective ways to solve problems.</p>
-
-<p>Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
-I like to work with businesses with a clear vision for excellent software products. You will not get any price estimation until we have talked extensively about what you want to achieve. </p>
-
-<p>If you have an idea and don't know how to realize it, I will help you to kick-start it. 
-Asking the right key questions is the most part at the beginning of every project. Only good project management delivers your business reliable software in a plannable time frame.</p>
-
-<p>Let's create something great together!</p>
-<p>Feel free contact me.</p>
-
-### Glade to see you here
-
+🔧 Technologies & Skills
+Frontend Development: Proficient in React and Next.js, I craft responsive and dynamic user interfaces. My designs often feature vibrant dark mode aesthetics with special animations to enhance user experience.
+Blockchain & Smart Contracts: Passionate about decentralized technology, I'm currently mastering Solidity, smart contracts, Solana, and Web3. I strive to create secure and efficient blockchain solutions.
+Full-Stack Capabilities: With a solid foundation in full-stack development, I seamlessly integrate frontend and backend technologies to deliver comprehensive web solutions.
+🌱 Current Endeavors
+Expanding my knowledge in blockchain development, specifically in smart contract auditing and security.
+Experimenting with cutting-edge Web3 frameworks and libraries to push the boundaries of decentralized applications.
+🎯 Projects & Interests
+Blockchain Development: Developing smart contracts and dApps, particularly on Solana and Ethereum.
+Web Development: Creating sleek, modern websites and applications with an emphasis on user experience and performance.
